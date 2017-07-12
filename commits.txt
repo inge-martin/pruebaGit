@@ -1,0 +1,17 @@
+commit afcc8407fd509f2ae28d3f7b7333c7213791431c
+Author: Martin <martin.mch21@gmail.com>
+Date:   Wed Jul 12 00:36:50 2017 -0500
+
+    Se agrego un nuevo row para los servicios de la pagina
+
+commit 139c6d4ea0bd0037162a698407e6ed9dd9577c25
+Author: Martin <martin.mch21@gmail.com>
+Date:   Wed Jul 12 00:32:46 2017 -0500
+
+    Agregamos un nuevo div -estamos para cuidar a tus mascotas-
+
+commit 5112114e329b4a1459e4f33db156b1164f1ae64f
+Author: Martin <martin.mch21@gmail.com>
+Date:   Wed Jul 12 00:27:25 2017 -0500
+
+    Iniciamos el proyecto
