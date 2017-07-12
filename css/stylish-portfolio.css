@@ -32,9 +32,10 @@ body {
 /* Custom Button Styles */
 
 .btn-dark {
-    border-radius: 0;
+    border-radius: 10px;
     color: #fff;
     background-color: rgba(0,0,0,0.4);
+    transition: 0.3s;
 }
 
 .btn-dark:hover,
@@ -42,6 +43,7 @@ body {
 .btn-dark:active {
     color: #fff;
     background-color: rgba(0,0,0,0.7);
+    transform: scale(1.2);
 }
 
 .btn-light {
